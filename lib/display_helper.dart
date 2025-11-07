@@ -17,4 +17,4 @@ class DisplayHelper {
   static void printSuccess(String message) => print('✅  $message');
   static void printError(String message) => print('❌  $message');
   static void printWarning(String message) => print('⚠️  $message');
-}
+} 
