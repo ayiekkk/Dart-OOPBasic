@@ -1,0 +1,13 @@
+[
+  {
+    "username": "alif",
+    "password": "123",
+    "categories": [
+      {
+        "name": "makan",
+        "limit": 50000.0,
+        "spent": 0.0
+      }
+    ]
+  }
+]
